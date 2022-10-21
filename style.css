@@ -1,0 +1,14 @@
+.ttt {
+    position: absolute;
+    width: 200px;
+    height: 200px;
+    background: #ccc;
+    z-index: 100;
+    top: 40%;
+    left: 45%;
+}
+
+.exit {
+    width: 20px;
+    float: right;
+}
